@@ -1,7 +1,6 @@
 # Mini-Projets Dart
 
-Ce dépôt contient trois mini-projets écrits en Dart : un jeu de devinettes, un chat client-serveur, et une application
-de liste de tâches.
+Ce dépôt contient trois mini-projets écrits en Dart : Guessing Game, un chat client-serveur, et Async To-do List.
 
 ## Guessing Game
 
